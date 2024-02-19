@@ -1,5 +1,5 @@
-project = 'PGT DiRIF'
-copyright = '2023, on'
+project = 'Signaalisation dynamique'
+copyright = '2024-02, on'
 author = 'on'
 release = ''
 
@@ -15,13 +15,13 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
-html_theme = 'alabaster'
+html_theme = 'furo'
 html_favicon = 'https://storage.googleapis.com/idf-congestion/favicon.ico'
 html_static_path = ['_static']
 html_show_copyright = False
 html_show_sphinx = False
 html_theme_options = {
     "sidebar_hide_name": True,
-    "light_logo": "fortC.svg",
-    "dark_logo": "fortC.svg",
+    "light_logo": "logo_SigDyn.jpg",
+    "dark_logo": "logo_SigDyn.jpg",
 }
