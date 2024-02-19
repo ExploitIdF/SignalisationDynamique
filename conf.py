@@ -1,4 +1,4 @@
-project = 'Signaalisation dynamique'
+project = 'Signalisation dynamique'
 copyright = '2024-02, on'
 author = 'on'
 release = ''
