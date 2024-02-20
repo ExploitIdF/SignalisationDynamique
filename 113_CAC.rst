@@ -1,6 +1,7 @@
 Les CAC dans CosWin
 ===================
-Les équipements de la Famille CAC sont au nombre de 500 environ. Il sont composés de 3 types de parents (A, B & C) et de leurs enfants.
+Les équipements de la Famille CAC sont au nombre de 500 environ. Ils sont composés de 3 types de parents (A, B & C) et de leurs enfants.
+
 Les enfants peuvent être de 4 types :
 
 * 113  CAC-A17B14 (Présignalisation située à moins de 300 m avant les feux R22, placée d'un ou des deux cotés de la voie)	
@@ -8,7 +9,7 @@ Les enfants peuvent être de 4 types :
 * 114 CAC-R22P	(Caisson du feu R22 principal)
 * CAC-R22R	111  (Caisson du feu R22 répéteur - le petit feu situé au milieu du mat)
 
-Le sens du type (A, B, C) reste à identifié, mais on observe que les 38 CAC de type A ont 4 ou 5 enfants. Il n'y a donc qu'un seul feu et parfois un seul panneau de présignalisation.
+Le sens du type (A, B, C) reste à identifié précisement, mais on observe que les 38 CAC de type A ont 4 ou 5 enfants. Il n'y a donc qu'un seul feu et parfois un seul panneau de présignalisation.
 
 Les 31 CAC de type C ont de 7 à 15 enfants. Il y a des feux et des panneaux de présignalisation des deux cotés de la voie et parfois plusieurs bretelles contrôlées sont inclues dans le même CAC parent.
 
@@ -20,7 +21,7 @@ Description concrête
 
 Chaque site peut avoir une ou plusieurs bretelles. 
 
-Les feux sont soit d'un soit des deux cotés de la voie de même que les panneaux de présignalisation.
+Les feux sont soit d'un soit des deux cotés de la voie, de même que les panneaux de présignalisation.
 
 
 
