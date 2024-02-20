@@ -18,10 +18,12 @@ Les équipements qui font l'objet d'une intervention sont identifiés dans la ta
 * soit directement (leur tatouage est dans le champ Equipement de l'OT) 
 * soit indirectement (le tatouage de leur parent est dans le champ Equipement de l'OT) 
 
-La moitié (327/650) des isolés font l'objet d'un OT.
-137/2040 enfants font directement l'objet d'un OT.
-1370/2040 enfants font indirectement l'objet d'un OT.
-325/600 parents font l'objet d'un OT.
+On peut distinguer les effectifs selon la catégorie de l'équipemnent :
+
+* La moitié (327/650) des isolés font l'objet d'un OT.
+* 137/2040 enfants font directement l'objet d'un OT.
+* 1370/2040 enfants font indirectement l'objet d'un OT.
+* 325/600 parents font l'objet d'un OT.
 
 
 
