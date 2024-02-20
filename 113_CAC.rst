@@ -14,6 +14,14 @@ Les 31 CAC de type C ont de 7 à 15 enfants. Il y a des feux et des panneaux de 
 
 Il n'y a que 3 CAC de type B. Ces CAC ont 5 ou 6 enfants. L'un des feux n'a pas de caisson répéteur.
 
+Description concrête
+^^^^^^^^^^^^^^^^^^^^
+72 accès à des autortoutes sont équipés de contrôle d'accès.
+
+Chaque site peut avoir une ou plusieurs bretelles. 
+
+Les feux sont soit d'un soit des deux cotés de la voie de même que les panneaux de présignalisation.
+
 
 
 
