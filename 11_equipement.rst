@@ -9,8 +9,7 @@ Il existe 2 niveaux d'équipements :
 * les équipements parents dont le tatouage apparait dans le champ Parent d'un autre équipement
 * les autres qui ont un parent et que l'on appelle les enfants et les équipements isolés qui n'ont ni parent ni enfant
 
-Il y donc 3 catégories : les parents, les enfants et les isolés.
-
+Il y donc 3 catégories : les 600 parents, les 2040 enfants et les 650 isolés.
 
 
 
