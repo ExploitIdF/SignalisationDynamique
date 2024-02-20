@@ -37,9 +37,9 @@ Il y donc 3 catégories : les 600 parents, les 2040 enfants et les 650 isolés.
 
 On détail dans des feuilles séparés comment sont enregistrés dans CosWin :
 
-* les `PMV<112_PMV>`
-* les `CAC<113_CAC>`
-* les `SAV<114_SAV>`
+* les :doc:`PMV<112_PMV>`
+* les :doc:`CAC<113_CAC>`
+* les :doc:`SAV<114_SAV>`
 
 Présence des équipements dans la table des OT
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
