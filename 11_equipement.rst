@@ -37,6 +37,7 @@ les équipements isolés qui n'ont ni parent ni enfant
 Il y donc 3 catégories : les 600 parents, les 2040 enfants et les 650 isolés.
 
 On détail dans des feuilles séparés comment sont enregistrés dans CosWin :
+
 * les `PMV<112_PMV>`
 * les `CAC<113_CAC>`
 * les `SAV<114_SAV>`
