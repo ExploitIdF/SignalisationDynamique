@@ -14,6 +14,7 @@ Champ Etat
 """"""""""""
 La table des équipements contient environ 3300 lignes dont  3100 pour lesquelles le champ ``Etat`` prend la valeur : ``EXPLOI``. 
 Les autres valeurs du champ Etat sont :
+
 * PROJET     105 (l'équipement n'est pas encore acquis)
 * DECONF      42  ( ?)
 * DEPPRO      21  (?)
