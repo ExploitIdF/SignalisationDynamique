@@ -11,7 +11,12 @@ Il existe 2 niveaux d'équipements :
 
 Il y donc 3 catégories : les 600 parents, les 2040 enfants et les 650 isolés.
 
+Présence des équipements dans la table des OT
+""""""""""""""""""""""""""""""""""""""""""""""
+Les équipements qui font l'objet d'une intervention sont identifiés dans la table des OT 
 
+* soit directement (leur tatouage est dans le champ Equipement de l'OT) 
+* soit indirectement (le tatouage de leur parent est dans le champ Equipement de l'OT) 
 
 
 
