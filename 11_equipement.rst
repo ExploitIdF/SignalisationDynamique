@@ -10,7 +10,20 @@ Equipements dans CosWin
 
 CosWin contient une table des équipements dans laquelle les équipements dynamiques peuvent être identifiés par le champ ``Famille`` qui prend les valeurs : ``SAV, PMV & CAC``.
 
-La table des équipements contient environ 3300 lignes dont  3100 pour lesquelles le champ ``Etat`` prend la valeur : ``EXPLOI``.   
+Champ Etat
+^^^^^^^^^^
+La table des équipements contient environ 3300 lignes dont  3100 pour lesquelles le champ ``Etat`` prend la valeur : ``EXPLOI``. 
+Les autres valeurs du champ Etat sont :
+* PROJET     105 (l'équipement n'est pas encore acquis)
+* DECONF      42  ( ?)
+* DEPPRO      21  (?)
+* RESERV      11
+* H_EXPL       2
+
+La signification de ces valeurs reste à éclaircir, elle dépend parfois de la nature de l'équipement. 
+
+La catégorie EXPLOI semble assez large, elle intègre même 4 CAC de la plateforme de test par exemple.
+Dans la suite, on se limitera aux équipement dont l'Etat est EXPLOI.
 
 Il existe 2 niveaux d'équipements :
 
