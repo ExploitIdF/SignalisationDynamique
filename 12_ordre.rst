@@ -9,6 +9,7 @@ En février 2024, pour la signalisation dynamique, il y a 380 lignes dans la tab
 Pour les analyses de données, la table  des *OT archivés* est la plus pertinente.
 Les dates des OT remontent à 2020 mais ce n'est qu'à partir de 2021 que les nombres d'OT archivés sont significatifs.
 
+Les ordres de travail comportent un champ *Equipement* qui prend 860 valeurs différentes donc 70 sont absentes de la `table des équipements de CosWin<11_equipement>`. **La raison de cette absence appelle une explication.**
 
 
 
