@@ -19,7 +19,7 @@ Il n'y a que 3 CAC de type B. Ces CAC ont 5 ou 6 enfants. L'un des feux n'a pas 
 
 Identification par les tatouages
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Seuls les parent (accès) on un tatouage DIRIF standard. Les identifiants des enfants sont construits à partir du tatouage de l'accès suivi d'un code selon la nature de l'objet. 
+Seuls les parent (accès) on un tatouage DIRIF standard. Les identifiants des enfants sont construits à partir du tatouage de l'accès suivi d'un code selon la nature de l'objet. Le principe de codification  est clair au tavers de l'exemple ci-dessous qui liste les enfants d'un CAC de type B.
 
 .. csv-table::
    :header: Identifiant,Type,Description
