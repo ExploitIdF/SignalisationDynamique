@@ -9,14 +9,18 @@ Ils sont de 4 types:
 * PMV-SAV (9)
 * FORFAIT-PMV (4)
 
+Les PMV n'ont jamais d'équipement parent mais 22 ont un enfant du type SAV-PT_VIRTUEL avec une description telle que *2xR2 du PMVD Full Matrice sur A4 Y 02+0600*.
 
+Date en mise en service
+^^^^^^^^^^^^^^^^^^^^^^^^
+.. csv-table::
+   :header: Période,PMV-INFO,PMV-NORMAL,PMV-PICTO,PMV-SAV
+   :widths: 30, 10, 10,10,10
+   :width: 100%
 
-
-
-
-Chaque parent correspond à un accès autoroutier avec une ou plusieurs bretelles.
-
-Les enfants peuvent être de 4 types :
-
-113 CAC-A17B14 (Présignalisation située à moins de 300 m avant les feux R22, placée d'un ou des deux cotés de la voie)
-111 CAC-FEU
+    avant 2000,0,20,0,0
+    2000-09,9,90,2,9
+    2010-2014,10,33,3,0
+    2015-2019,0,6,7,0
+    après 2020,3,52,10,0
+    Indéterminé,19,95,26,0
