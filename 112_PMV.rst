@@ -34,21 +34,22 @@ La table ci-dessous indique la période de mise en service par type de PMV.
 
 Description des PMV
 ^^^^^^^^^^^^^^^^^^^^
-Le champ Description des PMV reprend le plus souvent le type du PMV tel que *PMV-INFO, PMV-PICTO,PMV-SAV*.
+Le champ Description des PMV reprend le plus souvent le type du PMV tel que *PMV-INFO, PMV-PICTO, PMV-SAV*.
 
-Cependant, pour le type *PMV-NORMAL* , la description introduit de sous types tels que :
+Cependant, pour le type *PMV-NORMAL* , la description introduit des *sous-types* tels que :
 
 * PMVHA (108)
 * PMVS (93)
 * PMVD (85)
 
-Il pourrait être pertinent de transformer ces sous types en type à part entière.
+Il pourrait être pertinent de transformer ces sous-types en types à part entière.
 
 Certaines descriptions ne suivent pas la syntaxe ordinaire, telles que :
 
 * PMV sur A1 Y 18+600- Présignal Tunnel de Roissy	
 * PMV-NORMAL	PMV sur A6a W 0+0505
 
+Cela mérite peut être une correction.
 
 
 
