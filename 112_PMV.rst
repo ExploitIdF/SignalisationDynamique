@@ -31,3 +31,24 @@ La table ci-dessous indique la période de mise en service par type de PMV.
     2015-2019,0,6,7,0
     après 2020,3,52,10,0
     Non renseigné,19,95,26,0
+
+Description des PMV
+^^^^^^^^^^^^^^^^^^^^
+Le champ Description des PMV reprend le plus souvent le type du PMV tel que *PMV-INFO, PMV-PICTO,PMV-SAV*.
+
+Cependant, pour le type *PMV-NORMAL* , la description introduit de sous types tels que :
+
+* PMVHA (108)
+* PMVS (93)
+* PMVD (85)
+
+Il pourrait être pertinent de transformer ces sous types en type à part entière.
+
+Certaines descriptions ne suivent pas la syntaxe ordinaire, telles que :
+
+* PMV sur A1 Y 18+600- Présignal Tunnel de Roissy	
+* PMV-NORMAL	PMV sur A6a W 0+0505
+
+
+
+
