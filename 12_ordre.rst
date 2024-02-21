@@ -22,13 +22,20 @@ Les ordres de travail comportent un champ *Equipement* qui prend 860 valeurs dif
 OT Père ou Fils
 ^^^^^^^^^^^^^^^^
 On observe que certains OT ont une valeur renseignée du champ *OT_P*. On dira qu'ils sont des OT Fils et qu'ils ont un père.
-Les OT qui apparaissent dans le champ OT_P d'un autre OT seront désignés des OT pères.
-Les OT qui ne sont ni père ni fils seront qualifiées d'isolées.
 
-On constate que le champ OT_P prend 111 valeurs différentes mais 35 de ces valeurs ne se retrouvent pas dans les numéros d'OT de la table.
+Les OT qui apparaissent dans le champ OT_P d'un autre OT seront qualifiés d'OT pères.
+
+On constate que le champ OT_P prend 111 valeurs différentes, mais que 35 de ces valeurs ne se retrouvent pas dans les numéros d'OT de la table.
 Seulement 76 OT père sont présentes dans la table.
 
-1900 OT sont des OT Fils et 250 OT sont des OT isolées.
+**Il y a donc 35 OT père qui ne sont pas identifiées dans la table des OT CosWin.**
+
+Les OT qui ne sont ni père ni fils seront qualifiées d'isolées.
+
+Tans la table on a :
+
+* 1900 OT Fils et 
+* 250  OT isolées
 
 
 
