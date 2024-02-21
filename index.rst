@@ -12,8 +12,8 @@ Marché *Signalisation Dynamique*
 Mise à jour : février 2024
 
 Ce document rassemble des observations sur le marché attribué en janvier 2021 par la DIRIF au groupement SDEL/SEMERU 
-pour la maintenance des équipements de signalistion dynamique (Feux lumineux, Signaux d'affectation de voie (SAV), Panneaux à message variables(PMV),
-présignalisations des tunnels, contrôles d'accès (CAC)).
+pour la maintenance des équipements de signalistion dynamique (Panneaux à message variables(PMV), Signaux d'affectation de voie (SAV),
+présignalisations des tunnels, feux lumineux, Contrôles d'accès (CAC)).
 
 Il s'agit principalement d'analyses à partir des données de la :doc:`GMAO CosWIN<1_coswin>` et de l'application comptable :doc:`Sucombe<3_sucombe>`.
 
