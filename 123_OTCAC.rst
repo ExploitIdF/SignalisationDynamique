@@ -17,7 +17,7 @@ Les équipements du tableau ci-dessous apparaissent dans la table des OT mais ne
    FORFAIT_CAC_OUEST_N,Code fictif pour forfait CAC Secteur Nanterre,X,AGER_OUEST_N
 
 Dans l'autre sens, on trouve des équipements qui ne font pas l'objet d'un OT. 
-Les équipements dans la table ci-dessous ne font pas l'objet d'un OT.
+Les équipements dans la table ci-dessous ne font pas l'objet d'un OT. Pour le premier, il apparait dans le tableau ci-dessus avec un tatouage différent.
 
 .. csv-table::
    :header: Tatouage, Axe,Type, Description
