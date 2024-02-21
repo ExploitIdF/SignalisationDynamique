@@ -1,6 +1,7 @@
 Les PMV dans CosWin
 ===================
 Les équipements de la Famille PMV sont au nombre de 400 environ. 
+
 Ils sont de 4 types: 
 
 * PMV-NORMAL (296)
@@ -9,10 +10,16 @@ Ils sont de 4 types:
 * PMV-SAV (9)
 * FORFAIT-PMV (4)
 
-Les PMV n'ont jamais d'équipement parent mais 22 ont un enfant du type SAV-PT_VIRTUEL avec une description telle que *2xR2 du PMVD Full Matrice sur A4 Y 02+0600*.
+Les PMV n'ont jamais d'équipement *parent* mais 22 ont un *enfant* du type SAV-PT_VIRTUEL avec une description telle que:
 
-Date en mise en service
+*2xR2 du PMVD Full Matrice sur A4 Y 02+0600*.
+
+Dates en mise en service
 ^^^^^^^^^^^^^^^^^^^^^^^^
+Pour les deux tiers des PMV, la date de mise en service est renseignée dans CosWin.
+
+La table ci-dessous indique la période de mise en service par type de PMV.
+
 .. csv-table::
    :header: Période,PMV-INFO,PMV-NORMAL,PMV-PICTO,PMV-SAV
    :widths: 30, 10, 10,10,10
