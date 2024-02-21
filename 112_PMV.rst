@@ -30,4 +30,4 @@ La table ci-dessous indique la période de mise en service par type de PMV.
     2010-2014,10,33,3,0
     2015-2019,0,6,7,0
     après 2020,3,52,10,0
-    Indéterminé,19,95,26,0
+    Non renseigné,19,95,26,0
