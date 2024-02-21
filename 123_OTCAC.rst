@@ -21,7 +21,7 @@ Les équipements dans la table ci-dessous ne font pas l'objet d'un OT.
 
 .. csv-table::
    :header: Tatouage, Axe,Type, Description
-   :widths: 10, 10, 80
+   :widths: 10, 10, 10,70
    :width: 90%
 
    E21.002D,A13,CAC-TYPE C,Accès A13 Y 8+0000 depuis D182 (Vaucresson)
