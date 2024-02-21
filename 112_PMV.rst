@@ -1,2 +1,22 @@
 Les PMV dans CosWin
 ===================
+Les équipements de la Famille PMV sont au nombre de 400 environ. 
+Ils sont de 4 types: 
+
+* PMV-NORMAL (296)
+* PMV-INFO (41)
+* PMV-PICTO (48)
+* PMV-SAV (9)
+* FORFAIT-PMV (4)
+
+
+
+
+
+
+Chaque parent correspond à un accès autoroutier avec une ou plusieurs bretelles.
+
+Les enfants peuvent être de 4 types :
+
+113 CAC-A17B14 (Présignalisation située à moins de 300 m avant les feux R22, placée d'un ou des deux cotés de la voie)
+111 CAC-FEU
