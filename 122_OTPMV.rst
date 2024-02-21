@@ -45,7 +45,7 @@ Le tableau suivant présente les nombres d'OT par entité et par type.
    AGER_OUEST_N,88,131
    AGER_SUD,88,73
 
-
+Le PCTT Est est, selon COsWin, à l'origine de plus de la moitié des préventifs et de plus du tiers des curatifs.
 
 
 
