@@ -33,7 +33,11 @@ Il existe 2 niveaux d'équipements :
 * les équipements parents dont le tatouage apparait dans le champ Parent d'un autre équipement
 * les autres équipements qui ont un parent et que l'on appelle les enfants et les équipements isolés qui n'ont ni parent ni enfant
 
-Il y donc 3 catégories : les 600 parents, les 2040 enfants et les 650 isolés.
+Il y donc 3 catégories : les 
+
+* 540 parents 
+* 1960 enfants et
+* 600 isolés
 
 On détail dans des feuilles séparés comment sont enregistrés dans CosWin les 3 familles d'équipements :
 
