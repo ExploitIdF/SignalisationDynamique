@@ -12,6 +12,8 @@ Dans l'autre sens, 70 PMV de la tables CosWin des équipements n'apparaissent pa
 Dans certains cas, il s'agit de PMV présents sur le réseau d'un autre exploitant (BP, Cofiroute, SANEF).
 Leur absence peut également signifier qu'ils n'ont pas fait l'objet d'une maintenance enregistée dans CosWIn pendant la durée du marché.
 
+Le tableau ci-dessous fournit quelques exemples de ces PMV invisibles dans la table des OT.
+
 .. csv-table::
    :header: Identifiant,Axe,Description
    :widths: 10, 10, 80
