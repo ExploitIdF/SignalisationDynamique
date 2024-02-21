@@ -17,5 +17,5 @@ présignalisations des tunnels, feux lumineux, Contrôles d'accès (CAC)).
 
 Il s'agit principalement d'analyses à partir des données de la :doc:`GMAO CosWIN<1_coswin>` et de l'application comptable :doc:`Sucombe<3_sucombe>`.
 
-
+ L'objectif est de rendre accessibles à toutes les parties concernées les informations contenues dans les bases de données des applications utilisées par le DETT.
 
