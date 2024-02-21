@@ -30,6 +30,22 @@ Le tableau ci-dessous fournit quelques exemples de ces PMV invisibles dans la ta
    E60.646W,N7,PMV Info sur N7 Y 02+0550 - Tunnel d’Orly
    E60.643T,N7,PMV Picto sur N7 W 03+0970 - Présignal Tunnel d’Orly
 
+Nombre d'OT par entité et par type
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Le tableau suivant présente les nombres d'OT par entité et par type.
+
+.. csv-table::
+   :header: Entité, Curatif,Préventif
+   :widths: 50, 20, 20
+   :width: 90%
+
+   AGER_EST,207,381
+   AGER_NORD,78,66
+   AGER_OUEST_B,137,24
+   AGER_OUEST_N,88,131
+   AGER_SUD,88,73
+
+
 
 
 
