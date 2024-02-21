@@ -5,7 +5,7 @@ La table des ordre de travail comporte 232 lignes dont l'équipement appartient 
 Les équipements dans la table ci-dessous ne font pas l'objet d'un OT.
 
 .. csv-table::
-   :header: Tatouage, Axe,Description
+   :header: Tatouage, Axe,Type,Description
    :widths: 10, 10, 80
    :width: 90%
 
@@ -17,6 +17,7 @@ Les équipements dans la table ci-dessous ne font pas l'objet d'un OT.
    E21.131G,A86EST,CAC-TYPE C,Virtuel Accès A86 E 37+0740 - Plateforme de Test Sirius-Est
    E21.132H,A86EST,CAC-TYPE C,Virtuel Accès A86 E 37+0740 - Plateforme de Test Sirius-Ouest
 
+Les équipements de la table ci-dessous apparaissent dans la table des OT mais ne sont pas dans la table des équipements de CosWin.
 
 .. csv-table::
    :header: Equipement,Description,axeSens,Entité
