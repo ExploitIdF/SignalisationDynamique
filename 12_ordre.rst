@@ -1,5 +1,12 @@
 Ordres de travail
 ===================
+.. toctree::
+   :hidden:
+   :maxdepth: 3
+
+   122_OTPMV
+   123_OTCAC
+   124_OTSAV
 
 CosWin présente 2 tables différentes sur les **Ordres de travail** : les *OT en cours* et les *OT archivés*. 
 Les champs des 2 tables ne sont pas les mêmes. La table des OT en cours comporte des champs permettant de faire le lien avec Sucombe (Prestation et Bon de commande) qui ne sont pas dans la table des OT archivés.
