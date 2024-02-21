@@ -13,4 +13,4 @@ CosWin contient une :doc:`liste d'équipements<11_equipement>` qui représentent
 des :doc:`ordres de travail<12_ordre>` sont émis. Les ordres de travail de la GMOA, principalement destinés aux prestataires,
 sont associés à des *prestations* enregistrées dans l'application Sucombe.
 
-Dans les pages suivantes, nous explorerons la manière dont les équipements sont enregistrés dans CosWin et comment l'application facilite le suivi des activités de maintenance par les unités du DETT. L'objectif est de rendre accessibles à toutes les parties concernées les informations contenues dans les bases de données des applications utilisées par le DETT.
+Dans les pages suivantes, nous explorerons la manière dont les équipements sont enregistrés dans CosWin et comment l'application facilite le suivi des activités de maintenance par les unités du DETT. 
