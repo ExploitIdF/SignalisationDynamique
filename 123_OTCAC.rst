@@ -1,23 +1,9 @@
 Ordres de travail des CAC
 ===========================
-La table des ordre de travail comporte 232 lignes dont l'équipement appartient à la famille 'CAC' selon la table des équipements.
+La table des ordres de travail comporte 232 lignes dont l'équipement appartient à la famille 'CAC' selon la table des équipements.
 
-Les équipements dans la table ci-dessous ne font pas l'objet d'un OT.
-
-.. csv-table::
-   :header: Tatouage, Axe,Type,Description
-   :widths: 10, 10, 80
-   :width: 90%
-
-   E21.002D,A13,CAC-TYPE C,Accès A13 Y 8+0000 depuis D182 (Vaucresson)
-   E21.083Y,A86NORD,CAC-TYPE C,Accès A86 I 14+0400 depuis D24/D30 (Saint Denis)
-   E21.084A,A86NORD,CAC-TYPE A,Accès A86 I 3+0500 depuis D27 (Aubervilliers)
-   E21.127C,A86EST,CAC-TYPE C,Virtuel Accès A86 E 37+0740 - Plateforme de Test Sirius-Ouest
-   E21.128D,A86EST,CAC-TYPE C,Virtuel Accès A86 E 37+0740 - Plateforme de Test Sirius-Ouest
-   E21.131G,A86EST,CAC-TYPE C,Virtuel Accès A86 E 37+0740 - Plateforme de Test Sirius-Est
-   E21.132H,A86EST,CAC-TYPE C,Virtuel Accès A86 E 37+0740 - Plateforme de Test Sirius-Ouest
-
-Les équipements de la table ci-dessous apparaissent dans la table des OT mais ne sont pas dans la table des équipements de CosWin.
+Cependant, quelques équipements de la table des OT ne sont pas présents dans la table des équipements de CosWin.
+Les équipements du tableau ci-dessous apparaissent dans la table des OT mais ne sont pas dans la table des équipements de CosWin.
 
 .. csv-table::
    :header: Equipement,Description,axeSens,Entité
@@ -30,6 +16,21 @@ Les équipements de la table ci-dessous apparaissent dans la table des OT mais n
    FORFAIT_CAC_OUEST_B,Code fictif pour forfait CAC Secteur Boulogne,X,AGER_OUEST_B
    FORFAIT_CAC_OUEST_N,Code fictif pour forfait CAC Secteur Nanterre,X,AGER_OUEST_N
 
+Dans l'autre sens, on trouve des équipements qui ne font pas l'objet d'un OT. 
+Les équipements dans la table ci-dessous ne font pas l'objet d'un OT.
+
+.. csv-table::
+   :header: Tatouage, Axe,Type, Description
+   :widths: 10, 10, 80
+   :width: 90%
+
+   E21.002D,A13,CAC-TYPE C,Accès A13 Y 8+0000 depuis D182 (Vaucresson)
+   E21.083Y,A86NORD,CAC-TYPE C,Accès A86 I 14+0400 depuis D24/D30 (Saint Denis)
+   E21.084A,A86NORD,CAC-TYPE A,Accès A86 I 3+0500 depuis D27 (Aubervilliers)
+   E21.127C,A86EST,CAC-TYPE C,Virtuel Accès A86 E 37+0740 - Plateforme de Test Sirius-Ouest
+   E21.128D,A86EST,CAC-TYPE C,Virtuel Accès A86 E 37+0740 - Plateforme de Test Sirius-Ouest
+   E21.131G,A86EST,CAC-TYPE C,Virtuel Accès A86 E 37+0740 - Plateforme de Test Sirius-Est
+   E21.132H,A86EST,CAC-TYPE C,Virtuel Accès A86 E 37+0740 - Plateforme de Test Sirius-Ouest
 
 
 
