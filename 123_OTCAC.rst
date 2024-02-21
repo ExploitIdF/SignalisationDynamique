@@ -18,6 +18,17 @@ Les équipements dans la table ci-dessous ne font pas l'objet d'un OT.
    E21.132H,A86EST,CAC-TYPE C,Virtuel Accès A86 E 37+0740 - Plateforme de Test Sirius-Ouest
 
 
+.. csv-table::
+   :header: Equipement,Description,axeSens,Entité
+   :widths: 10, 40, 20,20
+   :width: 90%
+
+   E21.000A,Accès A13 W 8+0000 depuis D182 (Vaucresson),A13W,AGER_OUEST_B
+   E21.002D/B1G/R22P,Caisson tricolore (R22) du feux Gauche Bretelle1 du E21.002D,A13Y,AGER_OUEST_B
+   E21.129E/B1D/FEUX,Feux de signalisation Droit Bretelle1 du E21.129E,A4Y,AGER_EST
+   FORFAIT_CAC_OUEST_B,Code fictif pour forfait CAC Secteur Boulogne,X,AGER_OUEST_B
+   FORFAIT_CAC_OUEST_N,Code fictif pour forfait CAC Secteur Nanterre,X,AGER_OUEST_N
+
 
 
 
