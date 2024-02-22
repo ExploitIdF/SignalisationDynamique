@@ -30,6 +30,7 @@ On présente ci-dessous la comparaison avec deux claissements différents.
     SDY MP 09,Maintenance préventive renforcée décrite dans la gamme SDY 006 pour un équipement installé sur une structure PPHM non visitable et de type Panneau à Messages Variables dit « Hors Autoroute ».,72,76
 
 **Les 15 principales valeurs du réalisé à fin 2023**
+
 .. csv-table::
    :header: Code,Libellé,TotalHT,Réalisé_23
    :widths: 20, 60, 10,10
