@@ -2,10 +2,15 @@ Comparaison entre le détail estimatif du marché et le réalisé à fin 2023
 =========================================================================
 Sucombe permet de connaître la consomation par numéros de prix et  de la comparer à la prévision du détail estimatif.
 
-On présente ci-dessous la comparaison avec deux claissements différents. 
+Pour ce marché, on constate une bonne adéquation entre la prévision et le réalisé.
+
+On note une sous consommation de certaines visites annuelles (prix SDY MP 01/05/07)
+
+Des fournitures non prévues on été commandées pour quelques centaines de milliers d'euros.
+
+On présente ci-dessous la comparaison avec deux classements différents. 
+
 **Les 15 principale valeurs du détail estimatif**
-
-
 .. csv-table::
    :header: Code,Libellé,TotalHT,Réalisé_23
    :widths: 20, 60, 10,10
@@ -13,8 +18,6 @@ On présente ci-dessous la comparaison avec deux claissements différents.
       
     SDY MC 02,Unité de référence « intervention corrective » (dépannage).,980,630
     SDY MC 01,Unité de référence « recherche de défaut » (diagnostic).,748,566
-
-
     SDY ADM 02,Gestion générale de l'activité comprenant la gestion et le stockage des lots de pièces rechange régionaux conformément à la Fiche N°2 du CCTP.,556,425
     SDY MP 01,"Visite annuelle décrite dans la gamme SDY 001 pour un équipement installé sur une structure PPHM visitable et de type Panneau à Messages Variables multi-usage dit « Picto », de type Panneau à Messages Variables dit « Autoroutier », dit « Hors Autoroute » ou dit « Dédié ».",460,109
     SDY MP 05,"Visite annuelle décrite dans la gamme SDY 003 pour un matériel de régulation d’accès CAC Type A, B, C ou D (Feux R22 et pré-signalisation).",233,63
