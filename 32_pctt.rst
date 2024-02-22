@@ -5,9 +5,8 @@ Les commandes des PCTT pour les 15 principales lignes du BPU qui les interessent
 
 .. csv-table::
    :header: Code,Désignation,Est, Nord, Ouest,Sud,Total
-   :widths: 10, 40, 10,10,10,10,10
+   :widths: 15, 35, 10,10,10,10,10
    :width: 100%
-
 
     SDY MC 01,Unité de référence « recherche de défaut » (diagnostic).,207,81,163,114,565
     SDY MC 02,Unité de référence « intervention corrective » (dépannage).,163,103,214,149,629
