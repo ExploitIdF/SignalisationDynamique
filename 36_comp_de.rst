@@ -13,6 +13,8 @@ On présente ci-dessous la comparaison avec deux claissements différents.
       
     SDY MC 02,Unité de référence « intervention corrective » (dépannage).,980,630
     SDY MC 01,Unité de référence « recherche de défaut » (diagnostic).,748,566
+
+
     SDY ADM 02,Gestion générale de l'activité comprenant la gestion et le stockage des lots de pièces rechange régionaux conformément à la Fiche N°2 du CCTP.,556,425
     SDY MP 01,"Visite annuelle décrite dans la gamme SDY 001 pour un équipement installé sur une structure PPHM visitable et de type Panneau à Messages Variables multi-usage dit « Picto », de type Panneau à Messages Variables dit « Autoroutier », dit « Hors Autoroute » ou dit « Dédié ».",460,109
     SDY MP 05,"Visite annuelle décrite dans la gamme SDY 003 pour un matériel de régulation d’accès CAC Type A, B, C ou D (Feux R22 et pré-signalisation).",233,63
