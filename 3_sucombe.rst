@@ -6,6 +6,7 @@ Application Sucombe
 
    32_pctt
    34_upmm
+   36_comp_de
 
 Les commandes passées aux entreprises font l'objet de prestations regroupées dans des bons de commande. 
 Pour connaitre la nature des commandes la table des prestations est la première source à exploiter.
