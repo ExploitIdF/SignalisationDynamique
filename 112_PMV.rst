@@ -25,12 +25,16 @@ La table ci-dessous indique la période de mise en service par type de PMV.
    :widths: 30, 10, 10,10,10
    :width: 100%
 
-    avant 2000,0,20,0,0
+    Avant 2000,0,20,0,0
     2000-09,9,90,2,9
     2010-2014,10,33,3,0
     2015-2019,0,6,7,0
-    après 2020,3,52,10,0
+    Après 2020,3,52,10,0
     Non renseigné,19,95,26,0
+
+Quand la date de mise en service est renseignée, elle est rarement antérieure à l'année 2000. 
+Il serait utile de compléter la base CosWin pour permettre d'apprécier la vetusté globale du parc de PMV.
+
 
 Description des PMV
 ^^^^^^^^^^^^^^^^^^^^
