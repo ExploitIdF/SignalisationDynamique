@@ -11,6 +11,7 @@ Des fournitures non prévues on été commandées pour quelques centaines de mil
 On présente ci-dessous la comparaison avec deux classements différents. 
 
 **Les 15 principale valeurs du détail estimatif**
+
 .. csv-table::
    :header: Code,Libellé,TotalHT,Réalisé_23
    :widths: 20, 60, 10,10
