@@ -14,7 +14,9 @@ Pour connaitre la nature des commandes la table des prestations est la première
 Pour accéder aux numéros de prix, il faut faire appel à des extractions de la base qui ne sont pas accessibles par l'interface de l'application.
 
 .. note::
-   préciser la liste des tables nécessaire avec le nom qu'elles portes dans la base de données
+   Préciser la liste des tables nécessaires avec les noms qu'elles portent dans la base de données.
+
+   Donner des éléments sur la méthode de traitement.
 
 
 
