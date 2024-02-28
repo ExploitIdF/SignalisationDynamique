@@ -1,5 +1,5 @@
-Commandes des PCTT
-====================
+Commandes des PCTT selon le BPU
+=================================
 
 Les commandes des PCTT pour les 15 principales lignes du BPU qui les interessents sont présentées dans le tableau ci-dessous.
 
@@ -24,6 +24,6 @@ Les commandes des PCTT pour les 15 principales lignes du BPU qui les interessent
     SDY MP 204,Tunnel de Type 4 (Nombre de module supérieur à 40 et inférieur ou égal à 55).,33,50,33,50,166
     SDY MP 205,Tunnel de Type 5 (Nombre de module supérieur à 55).,0,34,0,35,69
 
-Le tableau permet de constater que certains prix ne sont pas utilisés de la même manière par les PCTT.
+Le tableau permet de constater que certains prix ne sont pas utilisés de la même manière par tous les PCTT.
 
 
