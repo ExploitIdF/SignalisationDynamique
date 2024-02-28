@@ -13,14 +13,8 @@ Pour connaitre la nature des commandes la table des prestations est la première
 
 Pour accéder aux numéros de prix, il faut faire appel à des extractions de la base qui ne sont pas accessibles par l'interface de l'application.
 
-.. DANGER::
-   Beware killer rabbits!
-
-.. danger::
-   Beware killer rabbits! d
-
-.. WARNING::
-   Beware killer rabbits! W
+.. note::
+   préciser la liste des tables nécessaire avec le nom qu'elles portes dans la base de données
 
 
 
