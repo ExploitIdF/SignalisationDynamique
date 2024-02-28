@@ -1,5 +1,5 @@
-Commandes d'UPMM
-=================
+Commandes d'UPMM selon le BPU
+===============================
 La table suivantes présente les commandes d'UPMM pour les 20 principaux numéros de prix qui la concernent.
 
 .. csv-table::
