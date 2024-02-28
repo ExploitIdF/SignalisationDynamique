@@ -2,12 +2,12 @@ Comparaison entre le détail estimatif du marché et le réalisé à fin 2023
 =========================================================================
 Sucombe permet de connaître les consomations par numéros de prix du marché et de les comparer aux prévisions du détail estimatif. 
 
-Pour ce marché, le **détail estimatif** prend la forme d'un classeur dont les feuilles ont toutes le même format. 
+Pour ce marché, le **détail estimatif** prend la forme d'un classeur dont les 12 feuilles ont toutes le même format. 
 Cela permet d'automatiser la fabrication de la table utilisée pour les traitements.
-Pour les futurs marchés, il serait souhaitable de construire dès le départ le BPU et le détail estimatif comme des tables simples. 
-Cela assurerait la cohérence entre les documents contractuels et les informations saisies dans Sucombe.
+Pour les futurs marchés, il serait souhaitable de construire dès le départ le BPU et le détail estimatif comme des tables simples, compatibles avec l'importation dans Sucombe. 
+Cela assurerait une parfaite cohérence entre les documents contractuels et les informations saisies dans Sucombe.
 
-Pour le marché Signalisation Dynamique, on constate une bonne adéquation entre la prévision et le réalisé.
+Pour le marché Signalisation Dynamique, on constate une bonne adéquation entre la prévision du détail estimatif et le réalisé tel que constaté dans Sucombe fin 2023.
 
 On note cependant une sous-consommation de certaines visites annuelles (prix SDY MP 01/05/07)
 
