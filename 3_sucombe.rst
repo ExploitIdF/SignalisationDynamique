@@ -11,7 +11,18 @@ Application Sucombe
 Les commandes passées aux entreprises font l'objet de prestations regroupées dans des bons de commande. 
 Pour connaitre la nature des commandes la table des prestations est la première source à exploiter.
 
-Pour accéder aux numéros de prix, il faut faire appel à des extractions de la base qui ne sont pas accessible par l'interface de l'application.
+Pour accéder aux numéros de prix, il faut faire appel à des extractions de la base qui ne sont pas accessibles par l'interface de l'application.
+
+.. DANGER::
+   Beware killer rabbits!
+
+.. danger::
+   Beware killer rabbits! d
+
+.. WARNING::
+   Beware killer rabbits! W
+
+
 
 Dépenses par an sur les 3 premières années du marché
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
