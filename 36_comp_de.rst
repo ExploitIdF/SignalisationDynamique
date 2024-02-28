@@ -1,14 +1,19 @@
 Comparaison entre le détail estimatif du marché et le réalisé à fin 2023
 =========================================================================
-Sucombe permet de connaître les consomations par numéros de prix du marché et de les comparer aux prévisions du détail estimatif.
+Sucombe permet de connaître les consomations par numéros de prix du marché et de les comparer aux prévisions du détail estimatif. 
+
+Pour ce marché, le **détail estimatif** prend la forme d'un classeur dont les feuilles ont toutes le même format. 
+Cela permet d'automatiser la fabrication de la table utilisée pour les traitements.
+Pour les futurs marchés, il serait souhaitable de construire dès le départ le BPU et le détail estimatif comme des tables simples. 
+Cela assurerait la cohérence entre les documents contractuels et les informations saisies dans Sucombe.
 
 Pour le marché Signalisation Dynamique, on constate une bonne adéquation entre la prévision et le réalisé.
 
-On note une sous-consommation de certaines visites annuelles (prix SDY MP 01/05/07)
+On note cependant une sous-consommation de certaines visites annuelles (prix SDY MP 01/05/07)
 
 Des fournitures non prévues on été commandées pour quelques centaines de milliers d'euros.
 
-On présente ci-dessous des tableaux faisant la comparaison avec deux classements différents. 
+On présente ci-dessous deux tableaux faisant la comparaison entre la prévision et le réalisé, avec deux classements différents. 
 
 **Les 15 principales valeurs du détail estimatif**
 
