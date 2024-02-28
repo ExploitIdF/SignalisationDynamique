@@ -7,7 +7,7 @@ GMAO CosWin
    11_equipement
    12_ordre
 
-Le système de gestion de la maintenance assistée par ordinateur (GMAO) CosWin, géré par STT/DETT/UPMM, est utilisé par les PCTT ainsi que les prestataires SDEL et SEMERU, membres du consortium responsable de la maintenance de la signalisation dynamique.
+Le système de gestion de la maintenance assistée par ordinateur (GMAO) CosWin, géré par STT/DETT/UPMM, est utilisé par les PCTT ainsi que les prestataires SDEL et SEMERU, membres du groupement titulaire du marché de maintenance de la signalisation dynamique.
 
 CosWin contient une :doc:`liste d'équipements<11_equipement>` qui représentent les composants fondamentaux sur lesquels
 des :doc:`ordres de travail<12_ordre>` sont émis. Les ordres de travail de la GMOA, principalement destinés aux prestataires,
