@@ -12,7 +12,7 @@ CosWin contient une table des équipements dans laquelle les équipements dynami
 
 Champ Etat
 """"""""""""
-La table des équipements contient environ 3300 lignes dont  3100 pour lesquelles le champ ``Etat`` prend la valeur : ``EXPLOI``. 
+La table des équipements accessible aux utilisateurs de CosWin contient environ 3300 lignes dont  3100 pour lesquelles le champ ``Etat`` prend la valeur : ``EXPLOI``. 
 Les autres valeurs du champ Etat sont :
 
 * PROJET     105 (l'équipement n'est pas encore acquis)
@@ -21,10 +21,12 @@ Les autres valeurs du champ Etat sont :
 * RESERV      11
 * H_EXPL       2
 
+La base de données de CosWin contient des équipements qui ont été abandonnés et qui n'apparaissent pas dans la table visible par les utilisateurs ordinaires.
+
 La signification de ces valeurs reste à éclaircir, elle dépend parfois de la nature de l'équipement. 
 
 La catégorie EXPLOI semble assez large, elle intègre même 4 CAC de la plateforme de test par exemple.
-Dans la suite, on se limitera aux équipement dont l'Etat est EXPLOI.
+Dans la suite, on se limitera aux équipements dont l'Etat est EXPLOI.
 
 Niveaux (Parent, Enfant, Isolés)
 """"""""""""""""""""""""""""""""""
@@ -39,7 +41,7 @@ Il y donc 3 catégories :
 * 1960 enfants et
 * 600 isolés
 
-On détail dans des feuilles séparées comment sont enregistrées dans CosWin les 3 familles d'équipements :
+On détaille dans des feuilles séparées comment sont enregistrées dans CosWin les 3 familles d'équipements :
 
 * les :doc:`PMV<112_PMV>`
 * les :doc:`CAC<113_CAC>`
