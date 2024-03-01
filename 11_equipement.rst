@@ -15,11 +15,11 @@ Champ Etat
 La table des équipements accessible aux utilisateurs de CosWin contient environ 3300 lignes dont  3100 pour lesquelles le champ ``Etat`` prend la valeur : ``EXPLOI``. 
 Les autres valeurs du champ Etat sont :
 
-* PROJET     105 (l'équipement n'est pas encore acquis)
-* DECONF      42  ( ?)
-* DEPPRO      21  (?)
-* RESERV      11
-* H_EXPL       2
+* PROJET     105 (Matériel déclaré dans la base TATOUAGE mais toujours pas installé sur le terrain )
+* DECONF      42  (Matériel déconfiguré mais toujours sur le terrain.)
+* DEPPRO      21  (Matériel déposé provisoirement. )
+* RESERV      11   (Matériel en place sur le terrain , normalement toujours configuré, mais mis hors exploitation car un matériel en amont est en panne )
+* H_EXPL       2  (Matériel sur le terrain mais non exploité par la DIRIF.)
 
 La base de données de CosWin contient des équipements qui ont été abandonnés et qui n'apparaissent pas dans la table visible par les utilisateurs ordinaires.
 
@@ -33,7 +33,7 @@ Niveaux (Parent, Enfant, Isolés)
 Il existe 2 niveaux d'équipements :
 
 * les équipements parents dont le tatouage apparait dans le champ Parent d'un autre équipement
-* les autres équipements qui ont un parent et que l'on appelle les enfants et les équipements isolés qui n'ont ni parent ni enfant
+* les autres équipements qui ont un parent et que l'on appelle les enfants et les équipements isolés qui n'ont ni parent ni enfant.
 
 Il y donc 3 catégories : 
 
